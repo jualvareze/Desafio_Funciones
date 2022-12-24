@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    border : 0;
+}
+
+h1, p{
+text-align: center;
+}
+
+.teclas{
+    margin: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+
+#a, #s, #d{
+    height: 30px;
+    width: 30px;
+    font-size: 20px;
+    text-align: center;
+}
+
+#a{
+    background-color: red;
+}
+
+#s{
+    background-color: green;
+}
+
+#d{
+    background-color: blue;
+}
+
+
+.cuadrados{
+margin: 50px;
+display: flex;
+justify-content: space-around;
+}
+
+#cuadrado_1{
+    background-color: red;
+    height: 200px;
+    width: 200px;
+}
+
+#cuadrado_2{
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+}
+
+#cuadrado_3{
+    background-color: green;
+    height: 200px;
+    width: 200px;
+}
+
+#cuadrado_4{
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+}
